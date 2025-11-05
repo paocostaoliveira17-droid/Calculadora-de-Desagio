@@ -75,3 +75,4 @@ st.write(f"Taxa de juros: {taxa*100:.2f}% ao mês")
 st.write(f"Tarifas fixas descontadas: R$ {tarifa_total:,.2f}")
 
 # Digitar no terminal : streamlit run Calculadora_online.py
+
