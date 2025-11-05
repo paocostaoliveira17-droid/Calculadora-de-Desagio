@@ -69,7 +69,7 @@ st.write(f"Juros mistos acumulados: R$ {juros_misto:,.2f}")
 
 
 # Detalhamento-
-st.subheader("Detalhamento do empréstimo")
+st.subheader("Detalhamento")
 st.write(f"Prazo total: {dias:.0f} dias ({meses:.2f} meses)")
 st.write(f"Taxa de juros: {taxa*100:.2f}% ao mês")
 st.write(f"Tarifas fixas descontadas: R$ {tarifa_total:,.2f}")
